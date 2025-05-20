@@ -35,7 +35,6 @@ print(grouped_means)
 
 # Task 3: Data Visualization
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 # Set plot style
 sns.set(style='whitegrid')
